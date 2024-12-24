@@ -15,3 +15,7 @@ const xi = 14;
 const omicron = 15;
 const pi = 16;
 const rho = 17;
+const kero = "line";
+const something = "uneasy";
+
+
